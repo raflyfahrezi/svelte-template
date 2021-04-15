@@ -49,7 +49,7 @@ export default {
             entries: [
                 {
                     find: 'app',
-                    replacement: path.resolve(rootPath, '/src/app'),
+                    replacement: path.resolve(rootPath, 'src/app'),
                 },
             ],
         }),
